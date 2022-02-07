@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+.img-osengo{
+    width: 253px;
+    height: 77px;
+}
+.maj::first-letter{
+    text-transform: uppercase;
+}
