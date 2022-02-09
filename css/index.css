@@ -193,6 +193,9 @@ body{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+.div-stg-profil figcaption{
+    padding-top: 10px;
+}
 .profil-padding{
     padding-top: 35px;
 }
