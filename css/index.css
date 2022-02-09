@@ -98,10 +98,11 @@ body{
     border: 1px solid #707070;
 }
 .div-qsn-text{
-    line-height: 3;
+    line-height: 2;
     text-align: center;
     margin-left: 80px;
     margin-right: 80px;
+    font-size: 29px;
 }
 .div-qsn-text span{
     color: #EE991A;
@@ -207,6 +208,14 @@ body{
     height: 529px;
     width: 949px;
 }
+.centre-perpi, .centre-toulouse, .centre-montpellier{
+    display: flex;
+    align-items: center;
+}
+.centre-txt{
+    font-size: 30px;
+    text-align: center;
+}
 /*blog article*/
 .partie-blog{
     background-color: #23597D;
@@ -214,6 +223,9 @@ body{
 .img-blog{
     height: 442px;
     width: 669px;
+}
+.partie-centre figcaption{
+    font-size: 50px;
 }
 /*footer*/
 .partie-footer{
